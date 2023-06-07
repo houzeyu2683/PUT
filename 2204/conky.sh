@@ -1,4 +1,4 @@
-sudo apt install conky
+sudo apt install conky -y
 
 mkdir -p ~/.conky/bee
 #mkdir -p ~/.conky/default
