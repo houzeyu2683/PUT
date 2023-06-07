@@ -48,4 +48,4 @@ ${goto 110}${font Ubuntu:style=Bold:size=11}${memperc}% ${goto 190}${font Ubuntu
 ${font Ubuntu:style=Bold:size=11}${font}
 
 
-${image ~/.conky/bee/LinuxSmall.png -p 10,0}
+${image ~/.conky/bee/hive.png -p 10,0}
