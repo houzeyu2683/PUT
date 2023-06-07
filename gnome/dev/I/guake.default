@@ -1,0 +1,6 @@
+[general]
+start-at-login=true
+use-popup=false
+
+[style/background]
+transparency=75

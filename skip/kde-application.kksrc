@@ -1,0 +1,34 @@
+[kaccess][Global Shortcuts]
+Toggle Screen Reader On and Off=
+
+[kcm_touchpad][Global Shortcuts]
+Disable Touchpad=Touchpad Off
+Enable Touchpad=Touchpad On
+Toggle Touchpad=Touchpad Toggle
+
+[org.kde.dolphin.desktop][Global Shortcuts]
+_launch=
+
+[org.kde.krunner.desktop][Global Shortcuts]
+RunClipboard=
+_launch=Search
+
+[org.kde.plasma.emojier.desktop][Global Shortcuts]
+_launch=
+
+[org.kde.spectacle.desktop][Global Shortcuts]
+ActiveWindowScreenShot=
+CurrentMonitorScreenShot=
+FullScreenScreenShot=Meta+Del
+OpenWithoutScreenshot=
+RectangularRegionScreenShot=Meta+Ins
+WindowUnderCursorScreenShot=
+_launch=
+
+[systemsettings.desktop][Global Shortcuts]
+_launch=Tools
+kcm-kscreen=
+kcm-lookandfeel=
+kcm-users=
+powerdevilprofilesconfig=
+screenlocker=
