@@ -22,6 +22,7 @@ sudo rm -rf /snap
 sudo rm -rf ~/snap
 
 bash gnome.sh
+bash conky.sh
 bash language.sh
 reboot
 
