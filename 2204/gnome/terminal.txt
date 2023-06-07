@@ -1,0 +1,15 @@
+[legacy]
+theme-variant='system'
+
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+audible-bell=true
+background-color='rgb(0,43,54)'
+cursor-shape='block'
+default-size-rows=20
+font='Noto Mono for Powerline 12'
+foreground-color='rgb(131,148,150)'
+use-system-font=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='default'
