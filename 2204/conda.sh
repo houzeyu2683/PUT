@@ -7,4 +7,4 @@ link=$url$file
 wget $link
 sh $file
 rm $file
-echo -e export PATH="$"PATH:"'"/home/$USER/.conda/bin"'" >> ~/.bashrc
+echo export PATH="$"PATH:"'"/home/$USER/.conda/bin"'" >> ~/.bashrc
