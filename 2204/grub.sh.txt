@@ -1,7 +1,0 @@
-#!/bin/bash
-
-cd grub
-sudo ./install.sh -b -t vimix
-
-#sudo chmod -x /etc/grub.d/30_
-#https://www.youtube.com/watch?v=PNPuMFesq0s
