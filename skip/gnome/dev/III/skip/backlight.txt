@@ -1,2 +1,0 @@
-使用終端機開關鍵盤背光
-xset led named "Scroll Lock"

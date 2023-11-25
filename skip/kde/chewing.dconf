@@ -1,8 +1,0 @@
-
-[desktop/ibus/general]
-engines-order=['chewing', 'xkb:us::eng']
-preload-engines=['xkb:us::eng', 'chewing']
-
-[desktop/ibus/general/hotkey]
-triggers=['<Super>space']
-

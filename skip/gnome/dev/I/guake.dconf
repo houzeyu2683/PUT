@@ -1,7 +1,0 @@
-[org/gnome/settings-daemon/plugins/media-keys]
-custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/guake/']
-
-[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/guake]
-binding='<Super>t'
-command='guake'
-name='guake'
