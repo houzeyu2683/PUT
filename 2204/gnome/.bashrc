@@ -96,4 +96,5 @@ fi
 if [ -f /opt/etc/bash_completion ] && ! shopt -oq posix; then
     . /opt/etc/bash_completion
 fi
+
 neofetch
